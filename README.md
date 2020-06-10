@@ -1,4 +1,4 @@
-# Quasar App (todo_project1)
+# Quasar App (todo_webapp)
 
 A Quasar Framework app
 
